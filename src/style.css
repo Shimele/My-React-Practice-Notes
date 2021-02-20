@@ -1,0 +1,25 @@
+.light-theme {
+  color: black;
+  text-align: center;
+  height: 100px;
+  background-color: beige;
+}
+.dark-theme {
+  text-align: center;
+  height: 100px;
+  color: beige;
+  background-color: rgb(12, 12, 12);
+}
+button {
+  height: auto !important;
+}
+.clock {
+  margin: 0 auto;
+  color: blueviolet;
+  background-color: black;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  padding-top: 5%;
+  font-size: 2rem;
+}
